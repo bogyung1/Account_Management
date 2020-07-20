@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">URL_Collection</string>
+    <string name="new_register">New_Register</string>
+    <string name="exit">EXIT</string>
+    <string name="site_name">Site Name</string>
+    <string name="url">URL</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="check_Password">Check Password</string>
+    <string name="cancel">cancel</string>
+    <string name="register">register</string>
+
+</resources>
